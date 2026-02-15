@@ -1,0 +1,1 @@
+{'message': 'Test submission from 8-GPU miner', 'hostname': 'alluring-toucan', 'status': 'Repository initialized successfully'}
